@@ -42,5 +42,4 @@ item:
   description: IHK-Ausbildung Fachinformatiker Systemintegration
   organization: IHK Oldenburg
   title: IHK-Ausbildung Prüfungsabschluss
-  certificate_url: "/media/ihk_german.pdf"
 ---
