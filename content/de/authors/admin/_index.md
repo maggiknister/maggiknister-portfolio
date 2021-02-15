@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: |2-
-  Wirtschaftsinformatiker
+  IT-Betriebsmanager
   Entwicklung und Betrieb
 
 # Organizations/Affiliations to show in About widget
@@ -16,19 +16,19 @@ organizations:
     url: https://www.ewe.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Meine Arbeit umfasst Web und Software Development, das Verwalten umfangreicher IT-Infrastrukturen sowie Cloud Computing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - IT Operations
   - Web and Software Development
-  - Economics
+  - Linux and Open Source
+  - Selfhosting
+  - Data Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc Wirtschaftsinformatik
+    - course: B. Sc. Wirtschaftsinformatik
       institution: IBS Oldenburg
       year: 2021
     - course: IHK-Ausbildung Fachinformatiker für Systemintegration
@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Hi! Ich bin kurz vor dem Abschluss meines dualen Studiums B. Sc. Wirtschaftsinformatik. Danach arbeite ich ab Februar 2021 bei der EWE TEL GmbH als Betriebsmanager. Meine Tätigkeiten dort umfassen Softwareentwicklung mit Java und Spring, Incident Management im Sinne von ITIL, sowie das allgemeine Verwalten der IT-Infrastruktur des Unternehmens.
+Hi! Mein Name ist Jan-Magnus Kister und ich habe im Januar 2021 meinen B. Sc. in Wirtschaftsinformatik erlangt. Aktuell arbeite ich seit Februar 2021 bei der EWE TEL GmbH als IT-Betriebsmanager. Meine Tätigkeiten dort umfassen Softwareentwicklung mit JavaScript, Java und Spring, Incident Management im Sinne von ITIL, sowie das allgemeine Verwalten der IT-Infrastruktur des Unternehmens. Dort habe ich oft mit Docker, AWS und Azure sowie mit Git zu tun.
 
-Darüber hinaus interessiere ich mich für den Einsatz von künstlicher Intelligenz, sowohl im Unternehmenskontext als auch darüber hinaus. Außerdem begeistern mich Open Source und Linux!
+Darüber hinaus interessiere ich mich für den Einsatz von künstlicher Intelligenz, insbesondere im Bezug auf Data Mining, sowohl im Unternehmenskontext als auch darüber hinaus. Außerdem begeistern mich Open Source und Linux! In meiner Freizeit digitalisiere ich mein Zuhause und feiere es, wenn mein Server am Start ist, und bin trostlos, wenn er dann doch mal wieder abgestürzt ist.
 
 <!-- {{< icon name="download" pack="fas" >}} Mein Lebenslauf {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

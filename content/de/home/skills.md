@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 50%
+  - description: 40%
     icon: python
     icon_pack: fab
     name: python
@@ -28,15 +28,19 @@ feature:
     icon: flask
     icon_pack: fas
     name: Data Science mit scikit, pandas, numpy
-  - description: 70%
+  - description: 80%
     icon: java
     icon_pack: fab
     name: Java
-  - description: 30%
+  - description: 70%
     icon: seedling
     icon_pack: fas
     name: Spring Boot
   - description: 70%
+    icon: whale
+    icon-pack: fab
+    name: Docker
+  - description: -50%
     icon: guitar
     icon_pack: fas
     name: Gitarre

@@ -42,4 +42,8 @@ item:
   description: IHK-Ausbildung Fachinformatiker Systemintegration
   organization: IHK Oldenburg
   title: IHK-Ausbildung Prüfungsabschluss
+- date_start: "2021-02-01"
+  description: Nachweis von berufs-pädagogischen Kompetenzen, die für den Einsatz als Ausbilder notwendig sind
+  organization: IHK Oldenburg
+  title: Ausbilder-Eignungsschein
 ---
