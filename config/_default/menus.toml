@@ -26,7 +26,7 @@
 [[main]]
   name = "Erfahrung"
   url = "#experience"
-  weigth = 40
+  weight = 40
 
 [[main]]
   name = "Errungenschaften"
