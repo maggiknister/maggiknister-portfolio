@@ -39,7 +39,7 @@ feature:
   - description: 70%
     icon: docker
     icon-pack: fab
-    name: docker
+    name: fa-docker
   - description: 60%
     icon: js
     icon_pack: fab
@@ -54,7 +54,7 @@ feature:
     name: guitar
   - description: idk
     icon: table-tennis
-    icon_pack: fab
+    icon_pack: fas
     name: table tennnis
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
