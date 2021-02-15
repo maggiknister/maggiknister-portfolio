@@ -31,7 +31,7 @@ item:
   url: "https://rueckenwind-ol.de"
 - date_start: "2018-11-04"
   description: |2-
-    - Entwurf eines Business Modells einer Projektmanagementsoftware für Bauprojekte
+    - Entwurf eines Business Modells einer Baumanagementsoftware für Architekten und Bauunternehmer
     - Pitch der Idee vor einer Jury
   organization: Bremen Startups
   organization_url: https://www.bremen-startups.de/
@@ -43,7 +43,7 @@ item:
   organization: IHK Oldenburg
   title: IHK-Ausbildung Prüfungsabschluss
 - date_start: "2021-02-01"
-  description: Nachweis von berufs-pädagogischen Kompetenzen, die für den Einsatz als Ausbilder notwendig sind
+  description:
   organization: IHK Oldenburg
   title: Ausbilder-Eignungsschein
 ---

@@ -50,7 +50,11 @@ experience:
     company: EWE TEL GmbH
     company_url: 'https://ewe.de'
     date_start: '2021-02-01'
-    description: Zukünftig
+    description: /2-
+        - Verwaltung der komplexen IT-Infrastruktur des Unternehmens
+        - Front- und Backend Entwicklung mit JavaScript, Java und Spring
+        - Verwaltung des Incident Management Prozesses
+        - Leitung und Koordination diverser Projekte
     # date_end
 
 ---

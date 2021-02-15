@@ -72,6 +72,6 @@ highlight_name: false
 
 Hi! Mein Name ist Jan-Magnus Kister und ich habe im Januar 2021 meinen B. Sc. in Wirtschaftsinformatik erlangt. Aktuell arbeite ich seit Februar 2021 bei der EWE TEL GmbH als IT-Betriebsmanager. Meine Tätigkeiten dort umfassen Softwareentwicklung mit JavaScript, Java und Spring, Incident Management im Sinne von ITIL, sowie das allgemeine Verwalten der IT-Infrastruktur des Unternehmens. Dort habe ich oft mit Docker, AWS und Azure sowie mit Git zu tun.
 
-Darüber hinaus interessiere ich mich für den Einsatz von künstlicher Intelligenz, insbesondere im Bezug auf Data Mining, sowohl im Unternehmenskontext als auch darüber hinaus. Außerdem begeistern mich Open Source und Linux! In meiner Freizeit digitalisiere ich mein Zuhause und feiere es, wenn mein Server am Start ist, und bin trostlos, wenn er dann doch mal wieder abgestürzt ist.
+Darüber hinaus interessiere ich mich für den Einsatz von künstlicher Intelligenz, insbesondere im Bezug auf Data Mining. Außerdem begeistern mich Open Source und Linux! In meiner Freizeit digitalisiere ich mein Zuhause mit Software, die ich einfach so irgendwo finde. Dabei feiere ich es, wenn mein Server am Start ist, und bin trostlos, wenn er dann doch mal wieder abraucht.
 
 <!-- {{< icon name="download" pack="fas" >}} Mein Lebenslauf {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

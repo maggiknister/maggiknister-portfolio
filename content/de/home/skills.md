@@ -37,13 +37,25 @@ feature:
     icon_pack: fas
     name: Spring Boot
   - description: 70%
-    icon: whale
+    icon: docker
     icon-pack: fab
     name: Docker
-  - description: -50%
+  - description: 60%
+    icon: js
+    icon_pack: fab
+    name: JavaScript
+  - description: 30%
+    icon: node
+    icon_pack: fab
+    name: Node.js
+  - description: -120%
     icon: guitar
     icon_pack: fas
     name: Gitarre
+  - description: idk
+    icon: table-tennis
+    icon_pack: fab
+    name: Tischtennis
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
