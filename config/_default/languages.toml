@@ -47,7 +47,7 @@
   languageCode = "de_de"
   contentDir = "content/de"
 
-Uncomment the lines below to configure your website in a second language.
+# Uncomment the lines below to configure your website in a second language.
 # [zh]
 #  languageCode = "zh-Hans"
 #  contentDir = "content/zh"
