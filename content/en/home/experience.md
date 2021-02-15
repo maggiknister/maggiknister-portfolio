@@ -29,7 +29,7 @@ experience:
     date_start: '2014-08-01'
     date_end: '2017-05-01'
     description: |2-
-        - Carrying out a practical economic project with a project report
+        - Carrying out a practical economics project including a project report
         - Fundamentals of economics, business administration and information processing
 
   - title: Dual student business informatics
@@ -50,7 +50,7 @@ experience:
     company: EWE TEL GmbH
     company_url: 'https://ewe.de'
     date_start: '2021-02-01'
-    description: >
+    description: /2-
         - Administration of the complex IT infrastructure of the company
         - Front- and backend development with js, Java and Spring Boot
         - Administration of our Incident Management process
