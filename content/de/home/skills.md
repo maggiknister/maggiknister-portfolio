@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Fähigkeiten
-subtitle:
+subtitle: "Nicht dass ich das beurteilen könnte :D"
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
