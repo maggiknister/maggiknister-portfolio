@@ -52,9 +52,9 @@ experience:
     date_start: '2021-02-01'
     description: /2-
         - Verwaltung der komplexen IT-Infrastruktur des Unternehmens
-        - Front- und Backend Entwicklung mit JavaScript, Java und Spring
+        - Front- und Backend Entwicklung mit JavaScript, Java und Spring Boot
         - Verwaltung des Incident Management Prozesses
-        - Leitung und Koordination diverser Projekte
+        - Leitung und Koordination verschiedener Projekte
     # date_end
 
 ---
