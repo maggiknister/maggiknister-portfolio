@@ -52,7 +52,7 @@ feature:
     icon: guitar
     icon_pack: fas
     name: guitar
-  - description: idk
+  - description:
     icon: table-tennis
     icon_pack: fas
     name: table tennnis
