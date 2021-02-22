@@ -39,12 +39,12 @@ feature:
   - description: 70%
     icon: docker
     icon-pack: fab
-    name: fa-docker
+    name: docker
   - description: 60%
     icon: js
     icon_pack: fab
     name: js
-  - description: 30%
+  - description: 70%
     icon: node
     icon_pack: fab
     name: node.js

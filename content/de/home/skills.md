@@ -37,14 +37,14 @@ feature:
     icon_pack: fas
     name: Spring Boot
   - description: 70%
-    icon: fa-docker
+    icon: docker
     icon-pack: fab
     name: Docker
   - description: 60%
     icon: js
     icon_pack: fab
     name: JavaScript
-  - description: 30%
+  - description: 70%
     icon: node
     icon_pack: fab
     name: Node.js

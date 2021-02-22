@@ -7,8 +7,8 @@ superuser: true
 
 # Role/position/tagline
 role: |2-
-  IT-Betriebsmanager
-  Entwicklung und Betrieb
+  - IT-Betriebsmanager
+  - Entwicklung und Betrieb
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,6 +72,6 @@ highlight_name: false
 
 Hi! Mein Name ist Jan-Magnus Kister und ich habe im Januar 2021 meinen B. Sc. in Wirtschaftsinformatik erlangt. Aktuell arbeite ich seit Februar 2021 bei der EWE TEL GmbH als IT-Betriebsmanager. Meine Tätigkeiten dort umfassen Softwareentwicklung mit JavaScript, Java und Spring, Incident Management im Sinne von ITIL, sowie das allgemeine Verwalten der IT-Infrastruktur des Unternehmens. Dort habe ich oft mit Docker, AWS und Azure sowie mit Git zu tun.
 
-Darüber hinaus interessiere ich mich für den Einsatz von künstlicher Intelligenz, insbesondere im Bezug auf Data Mining. Außerdem begeistern mich Open Source und Linux! In meiner Freizeit digitalisiere ich mein Zuhause mit Software, die ich einfach so irgendwo finde. Dabei feiere ich es, wenn mein Server am Start ist, und bin trostlos, wenn er dann doch mal wieder abraucht.
+Meine absolute Liebe ist die Webentwicklung. Ich entwickle immer mal wieder in verschiedensten Kontexten Webseiten und -apps, sowohl im beruflichen Kontext als auch privat. Darüber hinaus interessiere ich mich für den Einsatz von künstlicher Intelligenz, insbesondere im Bezug auf Data Mining. Außerdem begeistern mich Open Source und Linux! In meiner Freizeit digitalisiere ich mein Zuhause mit Software, die ich einfach so irgendwo finde. Dabei feiere ich es, wenn mein Server ordentlich läuft, und bin trostlos, wenn er dann doch mal wieder abraucht.
 
 <!-- {{< icon name="download" pack="fas" >}} Mein Lebenslauf {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
